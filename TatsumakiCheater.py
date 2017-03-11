@@ -20,7 +20,7 @@ email = input("What's your Discord email address?\n> ")
 while "@" not in email:
     email = input("That's not a valid email, try again.\n> ")
 password = input("What's your Discord password?\n> ")
-print("\n" * 666)
+print("\n" * 666666)
 print("Starting...")
 
 @bot.event
