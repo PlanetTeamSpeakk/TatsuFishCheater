@@ -42,7 +42,7 @@ async def cheattatsufish():
             await sleep(6)
             await bot.say("~fish sell uncommon")
             await sleep(6)
-            await bot.say("~fish sell rare")
+            await bot.say("~fish redeem octopus")
             counter = 0
         await sleep(35)
         
